@@ -1,32 +1,21 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+1. A/B Test Analysis: I analyzed user behavior across two webpage versions to identify which version leads to better engagement, higher conversion rates, and customer satisfaction. The findings will inform future website and marketing strategies.
+
+2. Inventory Optimization: I conducted an inventory analysis, forecasted demand trends, and developed strategies to optimize stock levels, enhancing customer satisfaction and operational efficiency.
+
+3. Operational Analysis (2014-2017): I provided comprehensive insights into company operations, enabling executive management to make informed strategic decisions for future growth and sustainability.
+
+4. Market Expansion: I focused on expanding into new geographic regions, improving customer satisfaction, and ensuring sustainable growth through operational efficiency and diversified product offerings.
+
+5. Fleet Maintenance Optimization (SAHCO): I developed a strategic maintenance plan for an aging fleet, improving GSE serviceability and addressing equipment beyond economic repair to ensure long-term operational efficiency and sustainability.
+Here’s a brief description of your projects:
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+	
