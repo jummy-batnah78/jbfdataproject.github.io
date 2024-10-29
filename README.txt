@@ -7,7 +7,7 @@
 
 4. Market Expansion: I focused on expanding into new geographic regions, improving customer satisfaction, and ensuring sustainable growth through operational efficiency and diversified product offerings.
 
-5. Fleet Maintenance Optimization (SAHCO): I developed a strategic maintenance plan for an aging fleet, improving GSE serviceability and addressing equipment beyond economic repair to ensure long-term operational efficiency and sustainability.
+5. Fleet Maintenance Optimization : I developed a strategic maintenance plan for an aging fleet, improving GSE serviceability and addressing equipment beyond economic repair to ensure long-term operational efficiency and sustainability.
 Here’s a brief description of your projects:
 
 
